@@ -1896,3 +1896,1427 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.01.23-23.18.19:894][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.23-23.18.19:894][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.23-23.18.19:894][722]AssetCheck: /Game/Levels/MainLevel Validating asset
+[2025.01.23-23.18.36:111][112]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.23-23.18.36:768][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.23-23.18.39:610][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.23-23.20.09:987][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_F69247EB.Box_F69247EB
+[2025.01.23-23.20.09:988][495]LogStaticMesh: Display: Building static mesh Box_F69247EB (Required Memory Estimate: 0.027864 MB)...
+[2025.01.23-23.20.09:989][495]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Box_F69247EB.Box_F69247EB
+[2025.01.23-23.20.09:989][495]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_F69247EB.Box_F69247EB as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_26
+[2025.01.23-23.20.19:774][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_09AD19D2.Box_09AD19D2
+[2025.01.23-23.20.19:774][ 98]LogStaticMesh: Display: Building static mesh Box_09AD19D2 (Required Memory Estimate: 0.027864 MB)...
+[2025.01.23-23.20.19:774][ 98]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Box_09AD19D2.Box_09AD19D2
+[2025.01.23-23.20.19:775][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_09AD19D2.Box_09AD19D2 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_27
+[2025.01.23-23.22.10:860][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2526.001953
+[2025.01.23-23.22.11:859][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.22.11:859][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2526.668213, Update Interval: 345.138702
+[2025.01.23-23.28.35:050][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2910.186035
+[2025.01.23-23.28.36:049][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.28.36:049][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2910.852539, Update Interval: 321.912903
+[2025.01.23-23.31.00:056][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.01.23-23.31.00:071][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto2
+[2025.01.23-23.31.00:071][393]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto26734DA0C4FD7BD80206A02A038DF6439.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2025.01.23-23.31.00:071][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.027
+[2025.01.23-23.31.00:071][393]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.01.23-23.31.00:071][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_23317F28] ([1] browsable assets)...
+[2025.01.23-23.31.00:072][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_23317F28]
+[2025.01.23-23.31.00:075][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_23317F28_Auto2
+[2025.01.23-23.31.00:075][393]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_23317F28_Auto2836D0FA24C7E60287FB7429542327EDB.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_23317F28_Auto2.uasset'
+[2025.01.23-23.31.00:076][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Box_F69247EB] ([1] browsable assets)...
+[2025.01.23-23.31.00:118][393]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_F69247EB.Box_F69247EB]
+[2025.01.23-23.31.00:118][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Box_F69247EB]
+[2025.01.23-23.31.00:121][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Box_F69247EB_Auto2
+[2025.01.23-23.31.00:121][393]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Box_F69247EB_Auto2D408CDF148BB0A63DEAE189C6B0F590B.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Box_F69247EB_Auto2.uasset'
+[2025.01.23-23.31.00:121][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Box_09AD19D2] ([1] browsable assets)...
+[2025.01.23-23.31.00:128][393]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Box_09AD19D2.Box_09AD19D2]
+[2025.01.23-23.31.00:128][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Box_09AD19D2]
+[2025.01.23-23.31.00:130][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Box_09AD19D2_Auto2
+[2025.01.23-23.31.00:130][393]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Box_09AD19D2_Auto2F9DF65B94B3C5A89A76C33BB815DCB55.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Box_09AD19D2_Auto2.uasset'
+[2025.01.23-23.31.00:131][393]LogFileHelpers: Auto-saving content packages took 0.060
+[2025.01.23-23.31.25:322][504]Cmd: TRANSACTION UNDO
+[2025.01.23-23.31.25:322][504]LogEditorTransaction: Undo Transform
+[2025.01.23-23.31.25:690][511]Cmd: TRANSACTION UNDO
+[2025.01.23-23.31.25:690][511]LogEditorTransaction: Undo Transform
+[2025.01.23-23.31.26:437][566]Cmd: TRANSACTION UNDO
+[2025.01.23-23.31.26:437][566]LogEditorTransaction: Undo Activate Tool
+[2025.01.23-23.32.09:752][766]Cmd: TRANSACTION UNDO
+[2025.01.23-23.32.09:752][766]LogEditorTransaction: Undo Transform
+[2025.01.23-23.32.14:910][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.23-23.32.23:121][651]LogStaticMesh: Display: Building static mesh Box_F69247EB (Required Memory Estimate: 0.027864 MB)...
+[2025.01.23-23.32.23:121][651]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Box_F69247EB.Box_F69247EB
+[2025.01.23-23.32.28:121][930]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.23-23.32.29:582][ 22]LogStaticMesh: Display: Building static mesh Box_09AD19D2 (Required Memory Estimate: 0.13493 MB)...
+[2025.01.23-23.32.29:584][ 22]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Box_09AD19D2.Box_09AD19D2
+[2025.01.23-23.32.33:397][215]Cmd: DELETE
+[2025.01.23-23.32.33:397][215]Cmd: ACTOR DELETE
+[2025.01.23-23.32.33:399][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.32.33:416][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.23-23.32.33:423][215]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.01.23-23.32.36:585][389]Cmd: DELETE
+[2025.01.23-23.32.36:585][389]Cmd: ACTOR DELETE
+[2025.01.23-23.32.36:587][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.32.36:597][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.23-23.32.36:602][389]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.01.23-23.32.53:609][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.32.53:609][469]LogStaticMesh: Display: Building static mesh Sphere_4CD52731 (Required Memory Estimate: 4.785744 MB)...
+[2025.01.23-23.32.53:610][469]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_28
+[2025.01.23-23.32.53:617][469]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.32.53:709][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.32.53:717][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.23-23.32.53:720][469]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Total job queries 174, among them cache hits 15 (8.62%), DDC hits 126 (72.41%), Duplicates 4 (2.30%)
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 146 distinct outputs (94.19%)
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: RAM used: 119.50 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Shaders Compiled: 29
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Average time worker was idle: 718.93 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Job execution time: average 1.40 s, max 2.88 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Job life time (pending + execution): average 1.45 s, max 2.91
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Shader code size: average 7.754 KiB, min 2.691 KiB, max 15.379 KiB
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.64 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.71%
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Total thread time: 14.824 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Total thread preprocess time: 2.84 s
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Percentage time preprocessing: 19.16%
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.23-23.34.12:350][225]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.57 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.47 sec, max 0.51 sec, min 0.43 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.11% of total time (compiled    7 times, average 0.57 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.82% of total time (compiled    7 times, average 0.40 sec, max 0.47 sec, min 0.29 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                                  FVelocityPS - 12.26% of total time (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:                                                  FVelocityVS - 9.39% of total time (compiled    4 times, average 0.35 sec, max 0.36 sec, min 0.33 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 6.36% of total time (compiled    2 times, average 0.47 sec, max 0.51 sec, min 0.43 sec)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: === Material stats ===
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Materials Translated:    134
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Material Translation Only: 0.04 s (53%)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.01.23-23.34.12:351][225]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.34.44:855][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_0683CEB7.Sphere_0683CEB7
+[2025.01.23-23.34.44:855][503]LogStaticMesh: Display: Building static mesh Sphere_0683CEB7 (Required Memory Estimate: 4.785744 MB)...
+[2025.01.23-23.34.44:856][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_0683CEB7.Sphere_0683CEB7 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_29
+[2025.01.23-23.34.44:863][503]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_0683CEB7.Sphere_0683CEB7
+[2025.01.23-23.34.44:955][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.34.44:964][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.23-23.34.44:966][503]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.01.23-23.34.53:504][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3288.627197
+[2025.01.23-23.34.53:582][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.34.53:582][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3288.690674, Update Interval: 325.373688
+[2025.01.23-23.34.56:622][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.34.56:622][204]LogStaticMesh: Display: Building static mesh Sphere_5BA3C3E2 (Required Memory Estimate: 4.785744 MB)...
+[2025.01.23-23.34.56:623][204]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_30
+[2025.01.23-23.34.56:629][204]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.40.36:127][864]Cmd: TRANSACTION UNDO
+[2025.01.23-23.40.36:127][864]LogEditorTransaction: Undo Transform
+[2025.01.23-23.40.57:828][309]Cmd: TRANSACTION UNDO
+[2025.01.23-23.40.57:828][309]LogEditorTransaction: Undo Transform
+[2025.01.23-23.41.03:264][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3658.377686
+[2025.01.23-23.41.03:399][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.41.03:400][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3658.499023, Update Interval: 341.577209
+[2025.01.23-23.41.51:890][757]LogDerivedDataCache: C:/Users/batni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.138 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1210 files in 1868 folders with total size 20 MiB.
+[2025.01.23-23.42.19:828][649]Cmd: TRANSACTION UNDO
+[2025.01.23-23.42.19:828][649]LogEditorTransaction: Undo Transform
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Total job queries 188, among them cache hits 22 (11.70%), DDC hits 131 (69.68%), Duplicates 4 (2.13%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Tracking 162 distinct input hashes that result in 150 distinct outputs (92.59%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: RAM used: 121.05 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Shaders Compiled: 31
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Average time worker was idle: 697.54 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 2.88 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 2.91
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Shader code size: average 7.688 KiB, min 2.691 KiB, max 15.379 KiB
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.54 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.68%
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Average processing rate: 2.69 jobs/sec
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Total thread time: 15.414 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Total thread preprocess time: 3.021 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Percentage time preprocessing: 19.60%
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Effective parallelization: 1.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.57 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.41 sec, max 0.51 sec, min 0.30 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.07% of total time (compiled    7 times, average 0.57 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.10% of total time (compiled    7 times, average 0.40 sec, max 0.47 sec, min 0.29 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                                  FVelocityPS - 11.80% of total time (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:                                                  FVelocityVS - 9.03% of total time (compiled    4 times, average 0.35 sec, max 0.36 sec, min 0.33 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.04% of total time (compiled    3 times, average 0.41 sec, max 0.51 sec, min 0.30 sec)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: === Material stats ===
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Materials Translated:    134
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Material Translation Only: 0.04 s (53%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.01.23-23.43.12:532][ 46]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.44.07:295][738]LogStaticMesh: Display: Building static mesh Sphere_5BA3C3E2 (Required Memory Estimate: 5.931671 MB)...
+[2025.01.23-23.44.07:310][738]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.44.07:312][738]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2) ...
+[2025.01.23-23.44.07:313][738]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.44.07:313][738]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.44.11:010][958]Cmd: TRANSACTION UNDO
+[2025.01.23-23.44.11:010][958]LogEditorTransaction: Undo Deform Mesh
+[2025.01.23-23.44.11:540][967]Cmd: TRANSACTION UNDO
+[2025.01.23-23.44.11:540][967]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.23-23.44.51:146][979]Cmd: TRANSACTION UNDO
+[2025.01.23-23.44.51:146][979]LogEditorTransaction: Undo Inset/Outset
+[2025.01.23-23.45.43:953][ 93]LogStaticMesh: Display: Building static mesh Sphere_5BA3C3E2 (Required Memory Estimate: 5.896557 MB)...
+[2025.01.23-23.45.43:967][ 93]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.45.43:970][ 93]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2) ...
+[2025.01.23-23.45.43:971][ 93]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.45.43:971][ 93]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.45.58:388][130]LogStaticMesh: Display: Building static mesh Sphere_5BA3C3E2 (Required Memory Estimate: 5.896557 MB)...
+[2025.01.23-23.45.58:400][130]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.45.58:405][130]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2) ...
+[2025.01.23-23.45.58:405][130]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.45.58:405][130]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.46.04:253][484]Cmd: TRANSACTION UNDO
+[2025.01.23-23.46.04:254][484]LogEditorTransaction: Undo Deform Mesh
+[2025.01.23-23.46.04:295][484]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.46.04:295][484]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.46.04:591][489]Cmd: TRANSACTION UNDO
+[2025.01.23-23.46.04:591][489]LogEditorTransaction: Undo Deform Mesh
+[2025.01.23-23.46.04:938][502]Cmd: TRANSACTION UNDO
+[2025.01.23-23.46.04:938][502]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.23-23.46.33:951][555]Cmd: TRANSACTION UNDO
+[2025.01.23-23.46.33:951][555]LogEditorTransaction: Undo Inset/Outset
+[2025.01.23-23.46.50:532][712]Cmd: TRANSACTION UNDO
+[2025.01.23-23.46.50:532][712]LogEditorTransaction: Undo Extrude
+[2025.01.23-23.47.06:573][922]LogStaticMesh: Display: Building static mesh Sphere_5BA3C3E2 (Required Memory Estimate: 5.673748 MB)...
+[2025.01.23-23.47.06:586][922]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2
+[2025.01.23-23.47.06:589][922]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2) ...
+[2025.01.23-23.47.06:589][922]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.47.06:589][922]LogStaticMesh: Warning: Sphere_5BA3C3E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.01.23-23.47.37:694][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4052.799805
+[2025.01.23-23.47.37:773][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.47.37:773][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4052.864502, Update Interval: 347.484375
+[2025.01.23-23.47.44:417][455]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D
+[2025.01.23-23.47.44:417][455]LogStaticMesh: Display: Building static mesh Cylinder_7BB6A78D (Required Memory Estimate: 0.109482 MB)...
+[2025.01.23-23.47.44:418][455]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_31
+[2025.01.23-23.47.44:421][455]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D
+[2025.01.23-23.48.39:736][828]LogStaticMesh: Display: Building static mesh Cylinder_7BB6A78D (Required Memory Estimate: 0.109482 MB)...
+[2025.01.23-23.48.39:738][828]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D
+[2025.01.23-23.50.02:038][106]Cmd: TRANSACTION UNDO
+[2025.01.23-23.50.02:038][106]LogEditorTransaction: Undo Transform
+[2025.01.23-23.50.13:165][831]LogStaticMesh: Display: Building static mesh Cylinder_7BB6A78D (Required Memory Estimate: 0.213997 MB)...
+[2025.01.23-23.50.13:166][831]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D
+[2025.01.23-23.50.31:929][ 90]Cmd: TRANSACTION UNDO
+[2025.01.23-23.50.31:929][ 90]LogEditorTransaction: Undo Extrude
+[2025.01.23-23.50.44:219][913]Cmd: TRANSACTION UNDO
+[2025.01.23-23.50.44:219][913]LogEditorTransaction: Undo Extrude
+[2025.01.23-23.50.52:627][465]LogStaticMesh: Display: Building static mesh Cylinder_7BB6A78D (Required Memory Estimate: 0.189777 MB)...
+[2025.01.23-23.50.52:628][465]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D
+[2025.01.23-23.51.00:741][949]Cmd: TRANSACTION UNDO
+[2025.01.23-23.51.00:742][949]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.23-23.51.01:174][956]Cmd: TRANSACTION UNDO
+[2025.01.23-23.51.01:174][956]LogEditorTransaction: Undo Deform Mesh
+[2025.01.23-23.51.20:628][298]Cmd: TRANSACTION UNDO
+[2025.01.23-23.51.20:628][298]LogEditorTransaction: Undo Inset/Outset
+[2025.01.23-23.51.29:267][875]Cmd: TRANSACTION UNDO
+[2025.01.23-23.51.29:267][875]LogEditorTransaction: Undo Extrude
+[2025.01.23-23.51.30:253][917]Cmd: TRANSACTION UNDO
+[2025.01.23-23.51.30:253][917]LogEditorTransaction: Undo Inset/Outset
+[2025.01.23-23.51.55:010][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A.Cylinder2_EA4F066A
+[2025.01.23-23.51.55:011][538]LogStaticMesh: Display: Building static mesh Cylinder2_EA4F066A (Required Memory Estimate: 0.213997 MB)...
+[2025.01.23-23.51.55:012][538]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A.Cylinder2_EA4F066A
+[2025.01.23-23.51.55:012][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A.Cylinder2_EA4F066A as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_32
+[2025.01.23-23.52.23:148][231]Cmd: DELETE
+[2025.01.23-23.52.23:148][231]Cmd: ACTOR DELETE
+[2025.01.23-23.52.23:151][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.52.23:168][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.23-23.52.23:179][231]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.01.23-23.53.00:393][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Drone_B91E5AF5.SM_Drone_B91E5AF5
+[2025.01.23-23.53.00:393][608]LogStaticMesh: Display: Building static mesh SM_Drone_B91E5AF5 (Required Memory Estimate: 6.08564 MB)...
+[2025.01.23-23.53.00:394][608]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Drone_B91E5AF5.SM_Drone_B91E5AF5 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_33
+[2025.01.23-23.53.00:406][608]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/SM_Drone_B91E5AF5.SM_Drone_B91E5AF5
+[2025.01.23-23.53.39:781][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.23-23.53.40:593][ 46]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.53.40:609][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.23-23.53.40:618][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.23-23.53.40:625][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.01.23-23.53.43:082][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.01.23-23.53.49:706][204]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.53.55:206][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.01.23-23.53.56:272][528]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.53.56:285][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.23-23.53.56:294][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.53.56:302][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.01.23-23.53.57:413][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.01.23-23.53.58:396][594]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.53.58:409][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.53.58:419][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.23-23.53.58:425][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.01.23-23.54.00:913][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.54.04:999][748]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.54.05:011][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4440.130371
+[2025.01.23-23.54.05:182][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.23-23.54.05:182][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4440.241211, Update Interval: 352.887970
+[2025.01.23-23.54.06:053][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.01.23-23.54.07:818][798]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.54.16:394][398]Cmd: DELETE
+[2025.01.23-23.54.16:394][398]Cmd: ACTOR DELETE
+[2025.01.23-23.54.16:396][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.54.16:406][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.01.23-23.54.16:410][398]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.01.23-23.54.23:520][904]Cmd: DELETE
+[2025.01.23-23.54.23:520][904]Cmd: ACTOR DELETE
+[2025.01.23-23.54.23:521][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.54.23:530][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.23-23.54.23:534][904]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.01.23-23.54.24:300][958]Cmd: DELETE
+[2025.01.23-23.54.24:300][958]Cmd: ACTOR DELETE
+[2025.01.23-23.54.24:301][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.54.24:309][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.23-23.54.24:311][958]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.01.23-23.54.26:089][ 84]Cmd: DELETE
+[2025.01.23-23.54.26:089][ 84]Cmd: ACTOR DELETE
+[2025.01.23-23.54.26:091][ 84]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.54.26:100][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.01.23-23.54.26:104][ 84]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.01.23-23.54.30:133][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.23-23.54.31:917][345]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.54.32:596][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.54.32:597][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.54.32:597][380]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_34
+[2025.01.23-23.54.33:040][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.23-23.54.33:042][423]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.01.23-23.54.33:048][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.54.33:048][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731
+[2025.01.23-23.54.33:049][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_4CD52731.Sphere_4CD52731 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_35
+[2025.01.23-23.54.35:453][573]Cmd: DELETE
+[2025.01.23-23.54.35:453][573]Cmd: ACTOR DELETE
+[2025.01.23-23.54.35:454][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.23-23.54.35:465][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.01.23-23.54.35:467][573]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.01.23-23.54.38:877][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.01.23-23.54.39:735][808]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.54.39:749][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.54.39:759][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.54.39:767][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.23-23.54.42:759][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.01.23-23.54.45:043][  4]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.23-23.54.45:060][  4]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Levels/_GENERATED/Yasmine/Sphere_23317F28.Sphere_23317F28
+	Asset Type: StaticMesh
+[2025.01.23-23.54.45:214][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.23-23.54.45:222][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.23-23.54.45:228][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.23-23.54.46:182][ 54]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Drone_B91E5AF5.SM_Drone_B91E5AF5
+[2025.01.23-23.54.46:278][ 54]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.01.23-23.54.46:345][ 54]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.23-23.54.46:367][ 54]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.01.23-23.54.46:378][ 54]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.01.23-23.54.46:429][ 54]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.01.23-23.54.46:430][ 54]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.01.23-23.54.49:581][172]LogSlate: Window 'SM_Drone_B91E5AF5' being destroyed
+[2025.01.23-23.54.57:020][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Total job queries 196, among them cache hits 22 (11.22%), DDC hits 131 (66.84%), Duplicates 4 (2.04%)
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 154 distinct outputs (90.59%)
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: RAM used: 122.31 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Shaders Compiled: 39
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Average time worker was idle: 1115.59 s
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 2.88 s
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Job life time (pending + execution): average 1.47 s, max 2.91
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Shader code size: average 7.452 KiB, min 2.691 KiB, max 15.379 KiB
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.39 s
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.65%
+[2025.01.23-23.55.12:573][ 63]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Average processing rate: 2.91 jobs/sec
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Total thread time: 19.352 s
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Total thread preprocess time: 3.179 s
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Percentage time preprocessing: 16.43%
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Effective parallelization: 1.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.58 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.44 sec, max 0.50 sec, min 0.36 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.17% of total time (compiled    9 times, average 0.58 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.92% of total time (compiled    9 times, average 0.41 sec, max 0.47 sec, min 0.29 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                  FVelocityPS - 9.39% of total time (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.04% of total time (compiled    4 times, average 0.44 sec, max 0.50 sec, min 0.36 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.17% of total time (compiled    4 times, average 0.40 sec, max 0.45 sec, min 0.33 sec)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: === Material stats ===
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Materials Translated:    137
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.01.23-23.55.12:574][ 63]LogShaderCompilers: Display: ================================================
+[2025.01.23-23.56.55:810][289]LogEditorTransaction: Undo Translate Socket
+[2025.01.23-23.57.14:883][738]LogContentBrowser: Attempting asset rename: SM_Drone_B91E5AF5 -> SM_Drone_B91E5AF5
+[2025.01.23-23.57.24:095][319]LogContentBrowser: Attempting asset rename: SM_Drone_B91E5AF5 -> SM_Drone
+[2025.01.23-23.57.24:220][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.23-23.57.24:221][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/SM_Drone] ([1] browsable assets)...
+[2025.01.23-23.57.24:229][319]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Drone.SM_Drone]
+[2025.01.23-23.57.24:229][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/SM_Drone]
+[2025.01.23-23.57.24:233][319]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/SM_Drone
+[2025.01.23-23.57.24:233][319]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone85471EEA46B2700C53B8CABDB7E22212.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/SM_Drone.uasset'
+[2025.01.23-23.57.24:236][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.269 ms (total: 227.882 ms)
+[2025.01.23-23.57.24:279][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.23-23.57.24:290][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.23-23.57.24:297][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.23-23.57.24:343][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.23-23.57.24:343][319]LogContentValidation: Enabled validators:
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.23-23.57.24:343][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.23-23.57.24:343][319]AssetCheck: /Game/Levels/_GENERATED/Yasmine/SM_Drone Validating asset
+[2025.01.23-23.57.44:699][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.23-23.57.44:699][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SM_Drone] ([1] browsable assets)...
+[2025.01.23-23.57.44:699][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_Drone]
+[2025.01.23-23.57.44:699][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/SM_Drone.uasset" SILENT=true
+[2025.01.23-23.57.44:705][234]LogSavePackage: Moving output files for package: /Game/SM_Drone
+[2025.01.23-23.57.44:705][234]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_DroneD9AD8EE24FE043369647218E42D0A7C4.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/SM_Drone.uasset'
+[2025.01.23-23.57.44:706][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.970 ms (total: 233.852 ms)
+[2025.01.23-23.57.44:736][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.23-23.57.44:745][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.23-23.57.44:753][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.23-23.57.44:771][234]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.23-23.57.44:771][234]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.23-23.57.44:771][234]LogContentValidation: Enabled validators:
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.23-23.57.44:771][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.23-23.57.44:771][234]AssetCheck: /Game/SM_Drone Validating asset
+[2025.01.23-23.57.48:709][564]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.23-23.57.48:775][564]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.23-23.57.48:783][565]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.23-23.57.50:800][690]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2025.01.23-23.57.50:801][690]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.23-23.57.54:700][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.23-23.57.54:701][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.01.23-23.57.54:701][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.01.23-23.57.54:701][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset" SILENT=true
+[2025.01.23-23.57.54:706][  4]LogSavePackage: Moving output files for package: /Game/Models/SM_Drone
+[2025.01.23-23.57.54:706][  4]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone320D08E54CBFE4651DBD489BFD0D228B.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset'
+[2025.01.23-23.57.54:707][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.838 ms (total: 239.691 ms)
+[2025.01.23-23.57.54:736][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.23-23.57.54:746][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.01.23-23.57.54:753][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.01.23-23.57.54:772][  4]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.23-23.57.54:772][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.23-23.57.54:772][  4]LogContentValidation: Enabled validators:
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.23-23.57.54:772][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.23-23.57.54:772][  4]AssetCheck: /Game/Models/SM_Drone Validating asset
+[2025.01.23-23.58.13:875][451]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.01.23-23.58.13:880][451]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.01.23-23.58.13:888][452]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.01.23-23.58.25:506][175]LogContentBrowser: Attempting asset rename: NewMaterial -> Mat_Drone
+[2025.01.23-23.58.25:507][175]LogContentBrowser: End creating deferred item NewMaterial
+[2025.01.23-23.58.27:938][319]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Mat_Drone.Mat_Drone
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.01.23-23.58.27:958][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.01.23-23.58.27:958][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.01.23-23.58.27:959][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.01.23-23.58.27:959][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.01.23-23.58.27:959][319]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.01.23-23.58.27:959][319]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.01.23-23.58.28:008][319]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.01.23-23.58.28:407][319]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.23-23.58.28:407][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.23-23.58.28:407][319]MaterialEditorStats: Shader Count: 0
+[2025.01.23-23.58.28:407][319]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.23-23.58.28:420][319]LogSlate: Took 0.007468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.23-23.58.29:560][436]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.23-23.58.29:560][436]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.23-23.58.29:560][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.23-23.58.29:560][436]MaterialEditorStats: Shader Count: 3
+[2025.01.23-23.58.29:560][436]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Shader Count: 4
+[2025.01.23-23.58.29:660][448]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.23-23.58.48:197][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.23-23.58.56:424][996]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.23-23.58.56:424][996]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.23-23.58.56:424][996]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.23-23.58.56:424][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.23-23.58.56:424][996]MaterialEditorStats: Shader Count: 4
+[2025.01.23-23.58.56:425][996]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.23-23.59.10:846][482]LogMaterialEditor: Applying material Mat_Drone
+[2025.01.23-23.59.11:120][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.23-23.59.12:905][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.01.23-23.59.46:154][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.01.23-23.59.46:162][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto3
+[2025.01.23-23.59.46:162][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto38EDE434249C7BE174F369BAEEEAC201A.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap'
+[2025.01.23-23.59.46:163][910]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.016
+[2025.01.23-23.59.46:163][910]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2025.01.23-23.59.46:164][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.01.23-23.59.46:174][910]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/SM_Drone.SM_Drone]
+[2025.01.23-23.59.46:174][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.01.23-23.59.46:179][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Drone_Auto3
+[2025.01.23-23.59.46:179][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone_Auto3ABB0F5F442D9155B045771B0EDE7D719.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/SM_Drone_Auto3.uasset'
+[2025.01.23-23.59.46:179][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A] ([1] browsable assets)...
+[2025.01.23-23.59.46:186][910]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A.Cylinder2_EA4F066A]
+[2025.01.23-23.59.46:186][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A]
+[2025.01.23-23.59.46:188][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto3
+[2025.01.23-23.59.46:188][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder2_EA4F066A_Auto3C99D446840DB1650DA859294DA422539.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto3.uasset'
+[2025.01.23-23.59.46:189][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D] ([1] browsable assets)...
+[2025.01.23-23.59.46:195][910]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.Cylinder_7BB6A78D]
+[2025.01.23-23.59.46:195][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D]
+[2025.01.23-23.59.46:198][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto3
+[2025.01.23-23.59.46:198][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_7BB6A78D_Auto3ABCE7BEE46FC09ACB07287828EFB8C59.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto3.uasset'
+[2025.01.23-23.59.46:199][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2] ([1] browsable assets)...
+[2025.01.23-23.59.46:205][910]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.Sphere_5BA3C3E2]
+[2025.01.23-23.59.46:205][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2]
+[2025.01.23-23.59.46:210][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto3
+[2025.01.23-23.59.46:210][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_5BA3C3E2_Auto35A0508E2464EE6014E7B55A7AC428C21.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto3.uasset'
+[2025.01.23-23.59.46:211][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Mat_Drone] ([1] browsable assets)...
+[2025.01.23-23.59.46:218][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Mat_Drone.Mat_Drone]
+[2025.01.23-23.59.46:218][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Mat_Drone]
+[2025.01.23-23.59.46:219][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Mat_Drone_Auto3
+[2025.01.23-23.59.46:219][910]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Mat_Drone_Auto39485BEDD4DCEDDDD0A9411B6BCF20AE3.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/Mat_Drone_Auto3.uasset'
+[2025.01.23-23.59.46:219][910]LogFileHelpers: Auto-saving content packages took 0.057
+[2025.01.24-00.00.54:584][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4849.529297
+[2025.01.24-00.00.54:631][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.00.54:631][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4849.567871, Update Interval: 315.049896
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: ================================================
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Total job queries 222, among them cache hits 33 (14.86%), DDC hits 132 (59.46%), Duplicates 4 (1.80%)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 163 distinct outputs (88.11%)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: RAM used: 125.71 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Shaders Compiled: 53
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Average time worker was idle: 803.35 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 2.88 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 2.91
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Shader code size: average 7.459 KiB, min 2.691 KiB, max 15.379 KiB
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.84 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.61%
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Total thread time: 25.443 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Total thread preprocess time: 3.501 s
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Percentage time preprocessing: 13.76%
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Effective parallelization: 1.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.56 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.39% of total time (compiled   11 times, average 0.56 sec, max 0.74 sec, min 0.41 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.78% of total time (compiled   11 times, average 0.39 sec, max 0.47 sec, min 0.26 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.55% of total time (compiled    6 times, average 0.41 sec, max 0.50 sec, min 0.30 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.50% of total time (compiled    6 times, average 0.36 sec, max 0.45 sec, min 0.26 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display:                                                  FVelocityPS - 7.15% of total time (compiled    4 times, average 0.45 sec, max 0.61 sec, min 0.38 sec)
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: === Material stats ===
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.24-00.01.12:589][ 46]LogShaderCompilers: Display: Materials Translated:    142
+[2025.01.24-00.01.12:590][ 46]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.01.24-00.01.12:590][ 46]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2025.01.24-00.01.12:590][ 46]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.24-00.01.12:590][ 46]LogShaderCompilers: Display: Material Cache Hits: 26 (18%)
+[2025.01.24-00.01.12:590][ 46]LogShaderCompilers: Display: ================================================
+[2025.01.24-00.06.42:503][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5197.325195
+[2025.01.24-00.06.42:616][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.06.42:616][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5197.427734, Update Interval: 306.599335
+[2025.01.24-00.12.40:494][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5555.146484
+[2025.01.24-00.12.40:551][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.12.40:551][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5555.193359, Update Interval: 311.354706
+[2025.01.24-00.18.33:543][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5908.128906
+[2025.01.24-00.18.33:590][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.18.33:590][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5908.166016, Update Interval: 350.430603
+[2025.01.24-00.24.58:616][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6293.137695
+[2025.01.24-00.24.58:690][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.24.58:690][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6293.203125, Update Interval: 329.469910
+[2025.01.24-00.31.13:123][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6667.634277
+[2025.01.24-00.31.13:178][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.31.13:178][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6667.680664, Update Interval: 334.902802
+[2025.01.24-00.37.39:726][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7054.071777
+[2025.01.24-00.37.39:782][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.37.39:782][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7054.118164, Update Interval: 339.973145
+[2025.01.24-00.38.34:172][780]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bf4...11b
+[2025.01.24-00.38.34:172][780]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.01.24-00.38.34:266][790]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bf4...11b Access[Expires: 2025.01.24-02.38.34 Remaining: 7200.23] Refresh[Expires: 2025-07-22T21:37:14.454Z Remaining: 15541120.45] State: Valid
+[2025.01.24-00.41.52:868][ 80]LogDerivedDataCache: C:/Users/batni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1210 files in 1868 folders with total size 20 MiB.
+[2025.01.24-00.43.59:602][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7433.675293
+[2025.01.24-00.43.59:667][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.43.59:667][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7433.731445, Update Interval: 340.474854
+[2025.01.24-00.50.19:028][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7812.816406
+[2025.01.24-00.50.19:085][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.50.19:085][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7812.863281, Update Interval: 314.586639
+[2025.01.24-00.56.26:506][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8180.111816
+[2025.01.24-00.56.26:571][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-00.56.26:571][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8180.167480, Update Interval: 329.469910
+[2025.01.24-01.02.51:719][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8565.884766
+[2025.01.24-01.02.51:784][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.02.51:784][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8565.941406, Update Interval: 332.872101
+[2025.01.24-01.09.15:950][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8951.829102
+[2025.01.24-01.09.16:006][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.09.16:006][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8951.876953, Update Interval: 316.685089
+[2025.01.24-01.13.10:946][425]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.24-01.13.10:953][425]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.24-01.13.10:960][426]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.24-01.13.16:547][775]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.01.24-01.13.16:549][775]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.24-01.13.27:040][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.24-01.13.27:049][468]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.24-01.13.27:056][468]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.24-01.13.27:086][470]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.24-01.13.32:625][806]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Bot
+[2025.01.24-01.13.32:840][806]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.24-01.13.34:649][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bot.BP_Bot
+[2025.01.24-01.13.34:651][924]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.01.24-01.13.34:730][924]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.24-01.13.37:123][924]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.01.24-01.13.37:124][924]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.01.24-01.14.14:292][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.24-01.14.14:293][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.041
+[2025.01.24-01.14.14:294][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Bot] ([2] browsable assets)...
+[2025.01.24-01.14.14:294][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bot]
+[2025.01.24-01.14.14:312][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bot_Auto4
+[2025.01.24-01.14.14:312][377]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Bot_Auto4D318680B424AC8E880590AB38B0DBDC6.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Bot_Auto4.uasset'
+[2025.01.24-01.14.14:313][377]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.01.24-01.15.16:467][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9312.704102
+[2025.01.24-01.15.17:465][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.15.17:465][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9313.370117, Update Interval: 302.151550
+[2025.01.24-01.20.16:140][993]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.01.24-01.20.38:917][792]LogEditorTransaction: Undo Make New Scene Root
+[2025.01.24-01.20.57:737][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9653.881836
+[2025.01.24-01.20.57:803][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.20.57:803][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9653.939453, Update Interval: 323.489502
+[2025.01.24-01.23.13:726][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.24-01.23.55:972][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.24-01.23.57:511][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.23.57:575][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.23.57:664][742]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.24-01.23.57:668][742]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.24-01.23.57:676][742]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.23.57:701][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024201s)
+[2025.01.24-01.23.57:701][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.024252s)
+[2025.01.24-01.23.57:718][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.24-01.23.57:734][742]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.23.57:782][742]LogPlayLevel: PIE: World Init took: (0.048840s)
+[2025.01.24-01.23.57:796][742]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.23.57:801][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.23.57:802][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.23.57:810][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.23.57:810][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.23.57:810][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.23.57:814][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.23.57:847][742]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.23.57:859][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.23.57:859][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.23.57:867][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.23.57:890][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.24-01.23.57:890][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.24-01.23.57:892][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.24-01.23.57:892][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.24-01.23.57:893][742]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.24-01.23.57:893][742]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2025.01.24-01.23.57:894][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.24-01.23.57:975][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.23.57:987][742]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.23.57:993][742]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.23.57
+[2025.01.24-01.23.57:996][742]LogWorld: Bringing up level for play took: 0.006552
+[2025.01.24-01.23.58:008][742]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.01.24-01.23.58:140][742]PIE: Server logged in
+[2025.01.24-01.23.58:143][742]PIE: Play in editor total start time 0.597 seconds.
+[2025.01.24-01.24.04:138][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.24.04:138][ 31]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.24.04:146][ 31]LogSlate: Window 'FirstProjectCCNY Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.24-01.24.04:154][ 31]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.24.04:167][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.24.04:208][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.24.04:214][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.24.04:236][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-01.24.04:238][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.24-01.24.04:241][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.24-01.24.04:247][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.24-01.24.04:321][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.24-01.24.04:377][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.01.24-01.24.40:504][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.01.24-01.24.40:514][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto5
+[2025.01.24-01.24.40:514][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto5CD1F426043BD489E17DB1D93BB0B59EC.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2025.01.24-01.24.40:518][894]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.044
+[2025.01.24-01.24.40:518][894]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2025.01.24-01.24.40:519][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.01.24-01.24.40:519][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.01.24-01.24.40:525][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Drone_Auto5
+[2025.01.24-01.24.40:526][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone_Auto59883C7D74D9FD6F0D1F7749A765B8CBE.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/SM_Drone_Auto5.uasset'
+[2025.01.24-01.24.40:527][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A] ([1] browsable assets)...
+[2025.01.24-01.24.40:527][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A]
+[2025.01.24-01.24.40:531][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto5
+[2025.01.24-01.24.40:531][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder2_EA4F066A_Auto5CC0C775144035736206B08860BEA6567.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto5.uasset'
+[2025.01.24-01.24.40:532][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D] ([1] browsable assets)...
+[2025.01.24-01.24.40:532][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D]
+[2025.01.24-01.24.40:536][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto5
+[2025.01.24-01.24.40:536][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_7BB6A78D_Auto574A69BDE4A905C26638521A924265E11.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto5.uasset'
+[2025.01.24-01.24.40:536][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2] ([1] browsable assets)...
+[2025.01.24-01.24.40:536][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2]
+[2025.01.24-01.24.40:542][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto5
+[2025.01.24-01.24.40:542][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_5BA3C3E2_Auto5D7CF41C44F7C9B67E6A1DE955720C191.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto5.uasset'
+[2025.01.24-01.24.40:543][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Mat_Drone] ([1] browsable assets)...
+[2025.01.24-01.24.40:543][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Mat_Drone]
+[2025.01.24-01.24.40:545][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Mat_Drone_Auto5
+[2025.01.24-01.24.40:545][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Mat_Drone_Auto503ABC15443344DC4491D25BC4E50E80F.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/Mat_Drone_Auto5.uasset'
+[2025.01.24-01.24.40:545][894]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bot] ([2] browsable assets)...
+[2025.01.24-01.24.40:734][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bot.BP_Bot]
+[2025.01.24-01.24.40:736][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bot]
+[2025.01.24-01.24.40:744][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bot_Auto5
+[2025.01.24-01.24.40:744][894]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Bot_Auto536C053B449428A1E1467CEB5FB404482.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Bot_Auto5.uasset'
+[2025.01.24-01.24.40:745][894]LogFileHelpers: Auto-saving content packages took 0.226
+[2025.01.24-01.26.25:778][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.24-01.26.29:677][747]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.26.29:683][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.26.29:683][747]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.26.29:686][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2025.01.24-01.26.29:686][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.003829s)
+[2025.01.24-01.26.29:703][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.24-01.26.29:705][747]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.26.29:709][747]LogPlayLevel: PIE: World Init took: (0.003400s)
+[2025.01.24-01.26.29:709][747]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.26.29:709][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.26.29:709][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.26.29:709][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.26.29:709][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.26.29:709][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.26.29:711][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.26.29:731][747]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.26.29:733][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.26.29:733][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.26.29:733][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.26.29:733][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.24-01.26.29:733][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.24-01.26.29:735][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.24-01.26.29:735][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.24-01.26.29:735][747]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.24-01.26.29:735][747]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2025.01.24-01.26.29:735][747]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.24-01.26.29:767][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.26.29:767][747]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.26.29:769][747]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.26.29
+[2025.01.24-01.26.29:769][747]LogWorld: Bringing up level for play took: 0.001001
+[2025.01.24-01.26.29:773][747]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.01.24-01.26.29:776][747]PIE: Server logged in
+[2025.01.24-01.26.29:777][747]PIE: Play in editor total start time 0.095 seconds.
+[2025.01.24-01.26.36:389][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.26.36:389][115]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.26.36:390][115]LogSlate: Window 'FirstProjectCCNY Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.24-01.26.36:410][115]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.26.36:411][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.26.36:413][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.26.36:419][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.26.36:436][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.24-01.26.36:436][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.24-01.26.36:439][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.24-01.26.36:446][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.24-01.26.36:502][116]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.01.24-01.26.39:993][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.26.39:998][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.26.39:998][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.26.39:999][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001312s)
+[2025.01.24-01.26.39:999][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001339s)
+[2025.01.24-01.26.40:019][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.24-01.26.40:020][425]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.26.40:022][425]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2025.01.24-01.26.40:022][425]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.26.40:022][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.26.40:022][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.26.40:022][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.26.40:022][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.26.40:023][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.26.40:025][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.26.40:042][425]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.26.40:042][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.26.40:042][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.26.40:042][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.26.40:044][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.24-01.26.40:044][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.24-01.26.40:045][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.24-01.26.40:045][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.24-01.26.40:045][425]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.24-01.26.40:045][425]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2025.01.24-01.26.40:045][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.24-01.26.40:098][425]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.26.40:099][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.26.40
+[2025.01.24-01.26.40:099][425]LogWorld: Bringing up level for play took: 0.000815
+[2025.01.24-01.26.40:102][425]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.01.24-01.26.40:103][425]PIE: Server logged in
+[2025.01.24-01.26.40:104][425]PIE: Play in editor total start time 0.107 seconds.
+[2025.01.24-01.26.51:159][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.26.51:159][606]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.26.51:162][606]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.26.51:162][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.26.51:385][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.26.51:390][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.26.51:411][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.26.51:411][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.24-01.26.51:411][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.24-01.26.51:414][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.24-01.26.51:422][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.01.24-01.26.51:485][607]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.01.24-01.27.02:028][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.24-01.27.02:448][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10018.436523
+[2025.01.24-01.27.02:513][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.27.02:513][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10018.493164, Update Interval: 308.910187
+[2025.01.24-01.27.08:036][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.27.08:040][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.27.08:040][326]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.27.08:042][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2025.01.24-01.27.08:042][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001326s)
+[2025.01.24-01.27.08:058][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.24-01.27.08:061][326]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.27.08:063][326]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2025.01.24-01.27.08:063][326]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.27.08:063][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.27.08:063][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.27.08:063][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.27.08:063][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.27.08:064][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.27.08:066][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.27.08:081][326]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.27.08:082][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.27.08:082][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.27.08:082][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.27.08:082][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.24-01.27.08:082][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.24-01.27.08:084][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.24-01.27.08:084][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.24-01.27.08:084][326]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.24-01.27.08:084][326]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2025.01.24-01.27.08:084][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.24-01.27.08:133][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.27.08:133][326]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.27.08:135][326]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.27.08
+[2025.01.24-01.27.08:135][326]LogWorld: Bringing up level for play took: 0.000745
+[2025.01.24-01.27.08:137][326]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.01.24-01.27.08:140][326]PIE: Server logged in
+[2025.01.24-01.27.08:141][326]PIE: Play in editor total start time 0.101 seconds.
+[2025.01.24-01.27.14:740][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.27.14:740][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.27.14:741][430]LogSlate: Window 'FirstProjectCCNY Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.24-01.27.14:951][430]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.27.14:951][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.27.14:954][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.27.14:958][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.27.14:977][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.24-01.27.14:977][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.24-01.27.14:979][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.24-01.27.14:985][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.24-01.27.15:040][431]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.01.24-01.27.26:478][726]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.27.26:483][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.27.26:483][726]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.27.26:484][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2025.01.24-01.27.26:484][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001332s)
+[2025.01.24-01.27.26:504][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.24-01.27.26:505][726]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.27.26:507][726]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2025.01.24-01.27.26:507][726]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.27.26:507][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.27.26:507][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.27.26:507][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.27.26:507][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.27.26:507][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.27.26:510][726]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.27.26:526][726]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.27.26:526][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.27.26:526][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.27.26:526][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.27.26:527][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.24-01.27.26:527][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.24-01.27.26:530][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.24-01.27.26:530][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.24-01.27.26:530][726]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.24-01.27.26:530][726]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2025.01.24-01.27.26:530][726]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.24-01.27.26:532][726]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.27.26:533][726]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.27.26
+[2025.01.24-01.27.26:533][726]LogWorld: Bringing up level for play took: 0.000839
+[2025.01.24-01.27.26:535][726]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.01.24-01.27.26:537][726]PIE: Server logged in
+[2025.01.24-01.27.26:537][726]PIE: Play in editor total start time 0.055 seconds.
+[2025.01.24-01.27.32:040][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.27.32:040][767]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.27.32:040][767]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.27.32:040][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.27.32:265][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.27.32:272][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.27.32:291][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.27.32:291][767]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.24-01.27.32:291][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.24-01.27.32:294][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.24-01.27.32:300][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.24-01.27.32:584][768]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.01.24-01.29.51:843][168]Cmd: DELETE
+[2025.01.24-01.29.51:843][168]Cmd: ACTOR DELETE
+[2025.01.24-01.29.51:846][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.24-01.29.51:872][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.24-01.29.51:876][168]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.01.24-01.29.54:710][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Bot.BP_Bot_C
+[2025.01.24-01.29.54:711][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Bot.BP_Bot_C
+[2025.01.24-01.29.54:713][329]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Bot.BP_Bot as actor: BP_Bot_C /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Bot_C_0
+[2025.01.24-01.29.54:714][329]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Bot.BP_Bot as actor: BP_Bot_C /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Bot_C_0
+[2025.01.24-01.29.55:526][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.24-01.29.55:529][391]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.01.24-01.29.55:534][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Bot.BP_Bot_C
+[2025.01.24-01.29.55:534][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Bot.BP_Bot_C
+[2025.01.24-01.29.55:536][391]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Bot.BP_Bot as actor: BP_Bot_C /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Bot_C_1
+[2025.01.24-01.29.55:537][391]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Bot.BP_Bot as actor: BP_Bot_C /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Bot_C_1
+[2025.01.24-01.29.59:991][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.29.59:999][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.29.59:999][617]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.30.00:000][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001425s)
+[2025.01.24-01.30.00:000][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001454s)
+[2025.01.24-01.30.00:020][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.24-01.30.00:022][617]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.30.00:024][617]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2025.01.24-01.30.00:025][617]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.30.00:025][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.30.00:025][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.30.00:025][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.30.00:025][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.30.00:025][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.30.00:031][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.30.00:047][617]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.30.00:047][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.30.00:047][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.30.00:047][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.30.00:053][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.01.24-01.30.00:053][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.01.24-01.30.00:054][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.01.24-01.30.00:054][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.01.24-01.30.00:054][617]LogInit: FAudioDevice initialized with ID 7.
+[2025.01.24-01.30.00:054][617]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainLevel'.
+[2025.01.24-01.30.00:054][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.24-01.30.00:057][617]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.30.00:058][617]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.30.00
+[2025.01.24-01.30.00:058][617]LogWorld: Bringing up level for play took: 0.000777
+[2025.01.24-01.30.00:060][617]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.01.24-01.30.00:073][617]LogBlueprintUserMessages: [BP_Bot_C_1] DefaultPawn_0
+[2025.01.24-01.30.00:074][617]PIE: Server logged in
+[2025.01.24-01.30.00:075][617]PIE: Play in editor total start time 0.079 seconds.
+[2025.01.24-01.30.03:253][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.30.03:253][640]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.30.03:253][640]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.30.03:253][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.30.03:479][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.30.03:484][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.30.03:501][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-01.30.03:501][640]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.24-01.30.03:502][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.24-01.30.03:504][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.24-01.30.03:507][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.30.03:513][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.24-01.30.03:551][641]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.01.24-01.32.57:989][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10373.833008
+[2025.01.24-01.32.58:056][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.32.58:056][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10373.890625, Update Interval: 327.512451
+[2025.01.24-01.33.02:769][963]LogEditorTransaction: Undo Create Pin Link
+[2025.01.24-01.33.55:357][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.24-01.33.56:886][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.33.56:892][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.33.56:892][161]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.33.56:893][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001440s)
+[2025.01.24-01.33.56:893][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001470s)
+[2025.01.24-01.33.56:911][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.24-01.33.56:913][161]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.33.56:916][161]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2025.01.24-01.33.56:916][161]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.01.24-01.33.56:916][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.33.56:916][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.33.56:916][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.33.56:916][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.33.56:916][161]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.33.56:917][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.33.56:917][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.33.56:917][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.33.56:917][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.33.56:917][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.33.56:917][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.33.56:919][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.33.56:935][161]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.33.56:936][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.33.56:936][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.33.56:936][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.33.56:937][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.01.24-01.33.56:937][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.01.24-01.33.56:938][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.01.24-01.33.56:938][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.01.24-01.33.56:939][161]LogInit: FAudioDevice initialized with ID 8.
+[2025.01.24-01.33.56:939][161]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainLevel'.
+[2025.01.24-01.33.56:939][161]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.24-01.33.56:941][161]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.33.56:943][161]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.33.56
+[2025.01.24-01.33.56:943][161]LogWorld: Bringing up level for play took: 0.000732
+[2025.01.24-01.33.56:945][161]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.01.24-01.33.56:946][161]LogBlueprintUserMessages: [BP_Bot_C_1] DefaultPawn_0, Index: 0
+[2025.01.24-01.33.56:947][161]PIE: Server logged in
+[2025.01.24-01.33.56:948][161]PIE: Play in editor total start time 0.057 seconds.
+[2025.01.24-01.34.00:566][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.34.00:566][188]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.34.00:566][188]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.34.00:566][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.34.00:794][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.34.00:801][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.34.00:817][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.34.00:818][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.24-01.34.00:818][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.24-01.34.00:820][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.24-01.34.00:827][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.01.24-01.34.00:871][189]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.01.24-01.35.17:391][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.24-01.35.17:399][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto6
+[2025.01.24-01.35.17:399][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto69D61390E4B754A6AD85A44974FE7B7A5.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2025.01.24-01.35.17:403][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.032
+[2025.01.24-01.35.17:403][ 28]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2025.01.24-01.35.17:403][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.01.24-01.35.17:403][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.01.24-01.35.17:408][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Drone_Auto6
+[2025.01.24-01.35.17:408][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone_Auto63BDA44BA4CC2208DDD4CAF820D94F60C.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/SM_Drone_Auto6.uasset'
+[2025.01.24-01.35.17:408][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A] ([1] browsable assets)...
+[2025.01.24-01.35.17:408][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A]
+[2025.01.24-01.35.17:410][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto6
+[2025.01.24-01.35.17:410][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder2_EA4F066A_Auto61D2DC93D406369BBF56C8CA00827E9DD.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A_Auto6.uasset'
+[2025.01.24-01.35.17:411][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D] ([1] browsable assets)...
+[2025.01.24-01.35.17:411][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D]
+[2025.01.24-01.35.17:412][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto6
+[2025.01.24-01.35.17:412][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_7BB6A78D_Auto60BE583744527E04611070A960DACAF4A.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D_Auto6.uasset'
+[2025.01.24-01.35.17:413][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2] ([1] browsable assets)...
+[2025.01.24-01.35.17:413][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2]
+[2025.01.24-01.35.17:417][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto6
+[2025.01.24-01.35.17:417][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_5BA3C3E2_Auto64A68712E480087640589DEBEEE211980.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2_Auto6.uasset'
+[2025.01.24-01.35.17:417][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Mat_Drone] ([1] browsable assets)...
+[2025.01.24-01.35.17:417][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Mat_Drone]
+[2025.01.24-01.35.17:418][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Mat_Drone_Auto6
+[2025.01.24-01.35.17:418][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Mat_Drone_Auto644B98D644A55A094756CCFA5F1A3B57E.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/Mat_Drone_Auto6.uasset'
+[2025.01.24-01.35.17:419][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bot] ([2] browsable assets)...
+[2025.01.24-01.35.17:545][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bot.BP_Bot]
+[2025.01.24-01.35.17:545][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bot]
+[2025.01.24-01.35.17:551][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bot_Auto6
+[2025.01.24-01.35.17:551][ 28]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Bot_Auto654A9EBE1481F2AA0D6D64699ECD07F28.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Bot_Auto6.uasset'
+[2025.01.24-01.35.17:551][ 28]LogFileHelpers: Auto-saving content packages took 0.148
+[2025.01.24-01.39.15:047][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10750.749023
+[2025.01.24-01.39.16:047][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.39.16:047][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10751.416016, Update Interval: 343.595093
+[2025.01.24-01.41.51:954][563]LogDerivedDataCache: C:/Users/batni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1210 files in 1868 folders with total size 20 MiB.
+[2025.01.24-01.42.05:241][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.24-01.42.06:507][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.42.06:513][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.42.06:513][187]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.42.06:514][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2025.01.24-01.42.06:514][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001416s)
+[2025.01.24-01.42.06:534][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.24-01.42.06:537][187]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.42.06:539][187]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2025.01.24-01.42.06:539][187]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.01.24-01.42.06:539][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.42.06:540][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.42.06:540][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.42.06:540][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.42.06:540][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.42.06:540][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.42.06:541][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.42.06:558][187]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.42.06:559][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.42.06:559][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.42.06:559][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.42.06:559][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.01.24-01.42.06:559][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.01.24-01.42.06:561][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.01.24-01.42.06:561][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.01.24-01.42.06:561][187]LogInit: FAudioDevice initialized with ID 9.
+[2025.01.24-01.42.06:561][187]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainLevel'.
+[2025.01.24-01.42.06:561][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.24-01.42.06:563][187]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.42.06:564][187]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.42.06
+[2025.01.24-01.42.06:564][187]LogWorld: Bringing up level for play took: 0.000727
+[2025.01.24-01.42.06:566][187]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.01.24-01.42.06:568][187]PIE: Server logged in
+[2025.01.24-01.42.06:569][187]PIE: Play in editor total start time 0.057 seconds.
+[2025.01.24-01.42.13:983][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.42.13:983][489]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.42.13:983][489]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.42.13:983][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.42.13:991][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.42.13:995][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.42.14:010][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-01.42.14:010][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.24-01.42.14:010][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.24-01.42.14:013][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.24-01.42.14:016][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.42.14:019][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.24-01.42.14:197][490]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.01.24-01.45.54:983][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11150.451172
+[2025.01.24-01.45.55:659][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.45.55:659][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11151.119141, Update Interval: 340.462036
+[2025.01.24-01.46.58:591][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.01.24-01.47.00:101][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-01.47.00:107][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-01.47.00:137][757]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.47.00:138][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2025.01.24-01.47.00:138][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.001634s)
+[2025.01.24-01.47.00:156][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.24-01.47.00:160][757]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.01.24-01.47.00:161][757]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2025.01.24-01.47.00:162][757]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-01.47.00:162][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-01.47.00:162][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-01.47.00:162][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-01.47.00:162][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-01.47.00:162][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-01.47.00:164][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-01.47.00:181][757]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- WH-XB910N)
+[2025.01.24-01.47.00:181][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-01.47.00:181][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-01.47.00:181][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-01.47.00:182][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.01.24-01.47.00:182][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.01.24-01.47.00:184][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.01.24-01.47.00:184][757]LogInit: FAudioDevice initialized with ID 10.
+[2025.01.24-01.47.00:184][757]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainLevel'.
+[2025.01.24-01.47.00:184][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.01.24-01.47.00:184][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.24-01.47.00:187][757]LogLoad: Game class is 'GameModeBase'
+[2025.01.24-01.47.00:188][757]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.01.23-20.47.00
+[2025.01.24-01.47.00:188][757]LogWorld: Bringing up level for play took: 0.000749
+[2025.01.24-01.47.00:190][757]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.01.24-01.47.00:191][757]LogBlueprintUserMessages: [BP_Bot_C_1] DefaultPawn_0
+[2025.01.24-01.47.00:192][757]PIE: Server logged in
+[2025.01.24-01.47.00:193][757]PIE: Play in editor total start time 0.086 seconds.
+[2025.01.24-01.47.03:578][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.47.03:578][974]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2025.01.24-01.47.03:578][974]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.47.03:578][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.47.03:588][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-01.47.03:595][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.47.03:614][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-01.47.03:614][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.24-01.47.03:615][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.24-01.47.03:617][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.24-01.47.03:623][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.24-01.47.03:663][975]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.01.24-01.48.36:203][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.24-01.48.36:213][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto7
+[2025.01.24-01.48.36:213][300]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto7B29FF0E34B248D166E2B1D803D76955B.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2025.01.24-01.48.36:217][300]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.033
+[2025.01.24-01.48.36:217][300]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.01.24-01.48.36:217][300]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bot] ([2] browsable assets)...
+[2025.01.24-01.48.36:312][300]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bot.BP_Bot]
+[2025.01.24-01.48.36:312][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bot]
+[2025.01.24-01.48.36:316][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bot_Auto7
+[2025.01.24-01.48.36:316][300]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Bot_Auto79D0D997848C5DB54B162718B7D852704.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Bot_Auto7.uasset'
+[2025.01.24-01.48.36:317][300]LogFileHelpers: Auto-saving content packages took 0.100
+[2025.01.24-01.52.07:110][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11522.458984
+[2025.01.24-01.52.08:110][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.52.08:110][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11523.125000, Update Interval: 355.955078
+[2025.01.24-01.56.12:259][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.24-01.56.13:907][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-01.56.13:965][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bot] ([2] browsable assets)...
+[2025.01.24-01.56.14:016][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bot.BP_Bot]
+[2025.01.24-01.56.14:016][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bot]
+[2025.01.24-01.56.14:016][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bot" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Blueprints/BP_Bot.uasset" SILENT=true
+[2025.01.24-01.56.14:025][550]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Bot
+[2025.01.24-01.56.14:025][550]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Bot917177FB4A2AE76E35CAFDBFDBE578C6.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Blueprints/BP_Bot.uasset'
+[2025.01.24-01.56.14:043][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.321 ms (total: 376.013 ms)
+[2025.01.24-01.56.14:097][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-01.56.14:097][550]LogContentValidation: Enabled validators:
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-01.56.14:097][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-01.56.14:098][550]AssetCheck: /Game/Blueprints/BP_Bot Validating asset
+[2025.01.24-01.56.16:670][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.01.24-01.56.18:410][855]LogSlate: Window 'Save Content' being destroyed
+[2025.01.24-01.56.21:169][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.24-01.56.21:175][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-01.56.21:267][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.24-01.56.21:277][172]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2025.01.24-01.56.21:278][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel17089EB9479603E07F6A4B9830270485.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/MainLevel.umap'
+[2025.01.24-01.56.21:287][172]LogFileHelpers: Saving map 'MainLevel' took 0.057
+[2025.01.24-01.56.21:287][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.01.24-01.56.21:287][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.01.24-01.56.21:287][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset" SILENT=true
+[2025.01.24-01.56.21:292][172]LogSavePackage: Moving output files for package: /Game/Models/SM_Drone
+[2025.01.24-01.56.21:292][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone88539F554F79B704A44996A22B21046C.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset'
+[2025.01.24-01.56.21:293][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A] ([1] browsable assets)...
+[2025.01.24-01.56.21:293][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A]
+[2025.01.24-01.56.21:297][172]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A
+[2025.01.24-01.56.21:297][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder2_EA4F066A7978AF5A43556C8B30049F99F1E2933F.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A.uasset'
+[2025.01.24-01.56.21:308][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D] ([1] browsable assets)...
+[2025.01.24-01.56.21:308][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D]
+[2025.01.24-01.56.21:310][172]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D
+[2025.01.24-01.56.21:310][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_7BB6A78D403B0ACE4DD925469F1290B7B8EF08D6.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D.uasset'
+[2025.01.24-01.56.21:311][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2] ([1] browsable assets)...
+[2025.01.24-01.56.21:311][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2]
+[2025.01.24-01.56.21:315][172]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2
+[2025.01.24-01.56.21:315][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_5BA3C3E283B0F42248F164658C318689F59FB127.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2.uasset'
+[2025.01.24-01.56.21:316][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Mat_Drone] ([1] browsable assets)...
+[2025.01.24-01.56.21:316][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Mat_Drone]
+[2025.01.24-01.56.21:316][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Mat_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/Mat_Drone.uasset" SILENT=true
+[2025.01.24-01.56.21:318][172]LogSavePackage: Moving output files for package: /Game/Models/Mat_Drone
+[2025.01.24-01.56.21:318][172]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Mat_Drone9395CBD34E05799D0B324B942F33BC8F.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/Mat_Drone.uasset'
+[2025.01.24-01.56.21:331][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.346 ms (total: 532.359 ms)
+[2025.01.24-01.56.21:397][172]LogContentValidation: Display: Starting to validate 6 assets
+[2025.01.24-01.56.21:397][172]LogContentValidation: Enabled validators:
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-01.56.21:397][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Levels/MainLevel Validating asset
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Models/SM_Drone Validating asset
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Cylinder2_EA4F066A Validating asset
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Cylinder_7BB6A78D Validating asset
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Sphere_5BA3C3E2 Validating asset
+[2025.01.24-01.56.21:397][172]AssetCheck: /Game/Models/Mat_Drone Validating asset
+[2025.01.24-01.56.22:692][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-01.56.22:728][325]LogStall: Shutdown...
+[2025.01.24-01.56.22:729][325]LogStall: Shutdown complete.
+[2025.01.24-01.56.22:865][325]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.22:865][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:025][325]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:025][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:093][325]LogSlate: Window 'FirstProjectCCNY - Unreal Editor' being destroyed
+[2025.01.24-01.56.23:601][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.24-01.56.23:620][325]Cmd: QUIT_EDITOR
+[2025.01.24-01.56.23:620][326]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.24-01.56.23:640][326]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.24-01.56.23:642][326]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.24-01.56.23:643][326]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.24-01.56.23:654][326]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:655][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:714][326]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.24-01.56.23:746][326]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.24-01.56.23:792][326]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:792][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:794][326]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:794][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:798][326]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:798][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:801][326]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-01.56.23:801][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-01.56.23:837][326]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.24-01.56.23:873][326]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.24-01.56.23:874][326]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.24-01.56.23:874][326]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.24-01.56.24:602][326]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.24-01.56.24:602][326]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.24-01.56.24:602][326]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2025.01.24-01.56.24:604][326]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.24-01.56.24:604][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.24-01.56.24:626][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.24-01.56.24:665][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.24-01.56.24:665][326]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.24-01.56.24:668][326]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.24-01.56.24:678][326]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.24-01.56.24:697][326]LogExit: Preparing to exit.
+[2025.01.24-01.56.24:782][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.24-01.56.24:786][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:789][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:816][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:825][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:826][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:829][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:829][326]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.24:829][326]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-01.56.26:051][326]LogEditorDataStorage: Deinitializing
+[2025.01.24-01.56.26:695][326]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.24-01.56.26:994][326]LogExit: Editor shut down
+[2025.01.24-01.56.27:021][326]LogExit: Transaction tracking system shut down
+[2025.01.24-01.56.28:105][326]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 4.
+[2025.01.24-01.56.28:192][326]LogExit: Object subsystem successfully closed.
+[2025.01.24-01.56.28:236][326]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.24-01.56.29:294][326]LogMemoryProfiler: Shutdown
+[2025.01.24-01.56.29:296][326]LogNetworkingProfiler: Shutdown
+[2025.01.24-01.56.29:296][326]LoadingProfiler: Shutdown
+[2025.01.24-01.56.29:298][326]LogTimingProfiler: Shutdown
+[2025.01.24-01.56.31:482][326]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.24-01.56.31:525][326]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.24-01.56.31:532][326]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.24-01.56.31:537][326]RenderDocPlugin: plugin has been unloaded.
+[2025.01.24-01.56.31:606][326]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.24-01.56.31:606][326]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B8195A0-47AF-BCA5-8C0F-47A1F982E6F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=c47e14fb4a7b3e35940a68a393077c39%7Cbf44d55a08e14ce0a6ca8c5b849f811b%7C65f8331a-c76c-4052-9647-220ed7af95c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.24-01.56.32:268][326]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.24-01.56.32:278][326]LogXGEController: Cleaning working directory: C:/Users/batni/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.01.24-01.56.32:336][326]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.24-01.56.32:336][326]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.24-01.56.32:341][326]LogPakFile: Destroying PakPlatformFile
+[2025.01.24-01.56.33:334][326]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.24-01.56.33:402][326]LogExit: Exiting.
+[2025.01.24-01.56.33:454][326]Log file closed, 01/23/25 20:56:33
