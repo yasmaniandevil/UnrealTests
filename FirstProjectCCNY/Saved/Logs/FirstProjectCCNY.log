@@ -4634,3 +4634,586 @@ Sampler Limit: 32
 [2025.02.05-23.28.13:689][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Drone_Auto3
 [2025.02.05-23.28.13:690][ 39]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Drone_Auto36A9FDE534DF7BA668164699439FEE8B5.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Drone_Auto3.uasset'
 [2025.02.05-23.28.13:692][ 39]LogFileHelpers: Auto-saving content packages took 0.165
+[2025.02.05-23.31.38:279][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9531.139648
+[2025.02.05-23.31.38:349][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.05-23.31.38:349][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9531.194336, Update Interval: 348.581207
+[2025.02.05-23.33.16:308][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.33.16:313][732]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_11
+[2025.02.05-23.33.16:315][732]LogStaticMesh: Display: Building static mesh Cylinder_17BD0E26 (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.33.16:330][732]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26) ...
+[2025.02.05-23.33.16:335][732]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.35.56:499][442]LogStaticMesh: Display: Building static mesh Cylinder_17BD0E26 (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.35.56:503][442]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.35.56:507][442]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.35.56:507][442]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.36.37:053][878]LogStaticMesh: Display: Building static mesh Cylinder_17BD0E26 (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.36.37:055][878]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.36.37:057][878]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.36.37:057][878]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.36.42:536][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.36.42:537][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.36.42:538][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_12
+[2025.02.05-23.36.43:291][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.36.43:291][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.36.43:292][305]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_13
+[2025.02.05-23.36.46:180][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.37.04:607][765]Cmd: DELETE
+[2025.02.05-23.37.04:607][765]Cmd: ACTOR DELETE
+[2025.02.05-23.37.04:673][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.37.04:727][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.02.05-23.37.04:731][765]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2025.02.05-23.37.08:725][979]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.37.12:853][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.37.22:327][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.37.25:765][834]Cmd: DELETE
+[2025.02.05-23.37.25:765][834]Cmd: ACTOR DELETE
+[2025.02.05-23.37.25:766][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.37.25:786][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.05-23.37.25:791][834]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.02.05-23.37.28:423][972]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.37.53:548][970]LogStaticMesh: Display: Building static mesh Cylinder_17BD0E26 (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.37.53:549][970]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.37.53:553][970]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.37.53:553][970]LogStaticMesh: Warning: Cylinder_17BD0E26 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.37.58:517][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.37.58:518][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.37.58:518][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_14
+[2025.02.05-23.38.00:039][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.05-23.38.00:043][446]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.02.05-23.38.00:049][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.38.00:049][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26
+[2025.02.05-23.38.00:051][446]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_15
+[2025.02.05-23.38.00:063][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9913.099609
+[2025.02.05-23.38.00:210][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.05-23.38.00:210][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9913.235352, Update Interval: 328.579987
+[2025.02.05-23.38.02:549][567]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.38.17:417][386]Cmd: DELETE
+[2025.02.05-23.38.17:417][386]Cmd: ACTOR DELETE
+[2025.02.05-23.38.17:418][386]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.38.17:441][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.05-23.38.17:447][386]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.02.05-23.38.18:269][431]Cmd: DELETE
+[2025.02.05-23.38.18:269][431]Cmd: ACTOR DELETE
+[2025.02.05-23.38.18:271][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.38.18:291][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.05-23.38.18:295][431]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.02.05-23.38.42:475][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.38.42:486][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto4
+[2025.02.05-23.38.42:486][575]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto43E6D87534F99530F46FA88880EF079B9.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2025.02.05-23.38.42:490][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.032
+[2025.02.05-23.38.42:490][575]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2025.02.05-23.38.42:490][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26] ([1] browsable assets)...
+[2025.02.05-23.38.42:603][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26.Cylinder_17BD0E26]
+[2025.02.05-23.38.42:603][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26]
+[2025.02.05-23.38.42:605][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26_Auto4
+[2025.02.05-23.38.42:605][575]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_17BD0E26_Auto46CAB2C0D49E333E9CFB11FB73412FB2E.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_17BD0E26_Auto4.uasset'
+[2025.02.05-23.38.42:607][575]LogFileHelpers: Auto-saving content packages took 0.118
+[2025.02.05-23.39.04:809][835]Cmd: TRANSACTION UNDO
+[2025.02.05-23.39.04:809][835]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.05-23.39.07:778][969]Cmd: TRANSACTION UNDO
+[2025.02.05-23.39.07:778][969]LogEditorTransaction: Undo Delete Elements
+[2025.02.05-23.39.12:674][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.39.18:555][521]Cmd: DELETE
+[2025.02.05-23.39.18:555][521]Cmd: ACTOR DELETE
+[2025.02.05-23.39.18:557][521]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.39.18:576][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.05-23.39.18:580][521]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.02.05-23.39.29:008][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.05-23.39.30:230][912]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.05-23.39.30:430][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.05-23.39.30:452][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.05-23.39.30:469][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.05-23.39.53:015][287]Cmd: TRANSACTION UNDO
+[2025.02.05-23.39.53:015][287]LogEditorTransaction: Undo Transform
+[2025.02.05-23.41.24:523][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.24:526][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_16
+[2025.02.05-23.41.24:528][428]LogStaticMesh: Display: Building static mesh Cylinder_4DBCF1FC (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.41.24:528][428]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.31:626][945]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.31:626][945]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.31:626][945]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_17
+[2025.02.05-23.41.32:639][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.05-23.41.32:643][ 22]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.02.05-23.41.32:647][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.32:647][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.41.32:649][ 22]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_18
+[2025.02.05-23.41.33:756][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.41.43:905][682]Cmd: DELETE
+[2025.02.05-23.41.43:905][682]Cmd: ACTOR DELETE
+[2025.02.05-23.41.43:906][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.41.43:927][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.41.43:932][682]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.02.05-23.41.45:977][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.41.57:531][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540
+[2025.02.05-23.41.57:531][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540
+[2025.02.05-23.41.57:532][304]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_19
+[2025.02.05-23.41.58:619][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.41.58:623][374]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.02.05-23.41.58:628][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540
+[2025.02.05-23.41.58:628][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540
+[2025.02.05-23.41.58:629][374]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.Cylinder_A8BA2540 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_20
+[2025.02.05-23.41.59:201][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.42.02:491][611]Cmd: DELETE
+[2025.02.05-23.42.02:491][611]Cmd: ACTOR DELETE
+[2025.02.05-23.42.02:492][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.42.02:512][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.05-23.42.02:517][611]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.02.05-23.42.04:631][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.42.24:333][ 18]Cmd: TRANSACTION UNDO
+[2025.02.05-23.42.24:333][ 18]LogEditorTransaction: Undo Transform
+[2025.02.05-23.42.32:446][543]LogStaticMesh: Display: Building static mesh Cylinder_4DBCF1FC (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.42.32:449][543]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.42.32:449][543]LogStaticMesh: Warning: Cylinder_4DBCF1FC has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.42.32:449][543]LogStaticMesh: Warning: Cylinder_4DBCF1FC has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.42.37:427][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.42.37:427][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.42.37:427][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_21
+[2025.02.05-23.42.38:168][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.05-23.42.38:171][943]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.02.05-23.42.38:176][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.42.38:176][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.42.38:177][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_22
+[2025.02.05-23.42.39:089][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.42.51:564][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.43.54:409][591]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_4DBCF1FC.Cylinder_4DBCF1FC
+[2025.02.05-23.43.54:426][591]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.02.05-23.44.06:981][324]LogContentBrowser: Attempting asset rename: Cylinder_4DBCF1FC -> SM_Bullet
+[2025.02.05-23.44.07:361][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.05-23.44.07:362][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/SM_Bullet] ([1] browsable assets)...
+[2025.02.05-23.44.07:369][324]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet]
+[2025.02.05-23.44.07:369][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/SM_Bullet]
+[2025.02.05-23.44.07:373][324]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/SM_Bullet
+[2025.02.05-23.44.07:373][324]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Bullet3672A4F94E775720BEF5798DC1DC5CD7.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/SM_Bullet.uasset'
+[2025.02.05-23.44.07:381][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 19.816 ms (total: 316.158 ms)
+[2025.02.05-23.44.07:444][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.05-23.44.07:465][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.05-23.44.07:478][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.05-23.44.07:539][324]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.05-23.44.07:540][324]LogContentValidation: Enabled validators:
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.05-23.44.07:540][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.05-23.44.07:540][324]AssetCheck: /Game/Levels/_GENERATED/Yasmine/SM_Bullet Validating asset
+[2025.02.05-23.44.09:687][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10282.699219
+[2025.02.05-23.44.09:775][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.05-23.44.09:775][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10282.769531, Update Interval: 301.611389
+[2025.02.05-23.44.10:535][480]Cmd: DELETE
+[2025.02.05-23.44.10:535][480]Cmd: ACTOR DELETE
+[2025.02.05-23.44.10:538][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.44.10:558][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.05-23.44.10:561][480]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.02.05-23.44.17:085][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.44.17:086][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_23
+[2025.02.05-23.44.17:089][868]LogStaticMesh: Display: Building static mesh Cylinder_F625055B (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.44.17:091][868]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.44.49:276][169]LogStaticMesh: Display: Building static mesh Cylinder_F625055B (Required Memory Estimate: 0.109482 MB)...
+[2025.02.05-23.44.49:279][169]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.44.49:280][169]LogStaticMesh: Warning: Cylinder_F625055B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.44.49:280][169]LogStaticMesh: Warning: Cylinder_F625055B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.05-23.45.00:233][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.45.00:233][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.45.00:234][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_24
+[2025.02.05-23.45.01:508][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.05-23.45.01:514][ 17]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.02.05-23.45.01:518][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.45.01:518][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.45.01:520][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_25
+[2025.02.05-23.45.02:598][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.45.07:013][338]Cmd: DELETE
+[2025.02.05-23.45.07:013][338]Cmd: ACTOR DELETE
+[2025.02.05-23.45.07:015][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.45.07:032][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.05-23.45.07:037][338]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.02.05-23.45.08:590][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.45.10:258][523]Cmd: DELETE
+[2025.02.05-23.45.10:258][523]Cmd: ACTOR DELETE
+[2025.02.05-23.45.10:261][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.45.10:278][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.05-23.45.10:283][523]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.02.05-23.45.12:550][648]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.45.14:432][750]Cmd: DELETE
+[2025.02.05-23.45.14:432][750]Cmd: ACTOR DELETE
+[2025.02.05-23.45.14:434][750]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.45.14:454][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.45.14:460][750]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.02.05-23.46.27:100][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.46.27:100][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.46.27:100][208]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_26
+[2025.02.05-23.46.28:204][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.46.28:207][303]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.02.05-23.46.28:212][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.46.28:212][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B
+[2025.02.05-23.46.28:213][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_27
+[2025.02.05-23.46.29:893][393]Cmd: DELETE
+[2025.02.05-23.46.29:893][393]Cmd: ACTOR DELETE
+[2025.02.05-23.46.29:895][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.46.29:915][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.05-23.46.29:919][393]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.02.05-23.46.32:341][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet
+[2025.02.05-23.46.32:341][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet
+[2025.02.05-23.46.32:342][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_28
+[2025.02.05-23.46.32:703][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.46.32:706][560]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.02.05-23.46.32:710][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet
+[2025.02.05-23.46.32:710][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet
+[2025.02.05-23.46.32:712][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Yasmine/SM_Bullet.SM_Bullet as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_29
+[2025.02.05-23.46.33:631][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.05-23.46.39:432][936]Cmd: DELETE
+[2025.02.05-23.46.39:432][936]Cmd: ACTOR DELETE
+[2025.02.05-23.46.39:434][936]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.05-23.46.39:453][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.05-23.46.39:457][936]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.02.05-23.47.32:237][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.05-23.47.32:237][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Bullet] ([1] browsable assets)...
+[2025.02.05-23.47.32:237][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Bullet]
+[2025.02.05-23.47.32:237][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Bullet" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Bullet.uasset" SILENT=true
+[2025.02.05-23.47.32:240][656]LogSavePackage: Moving output files for package: /Game/Models/SM_Bullet
+[2025.02.05-23.47.32:240][656]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Bullet4B7DEFCC4BAAF14D4D3D9B9FE24DE7F2.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Bullet.uasset'
+[2025.02.05-23.47.32:244][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.188 ms (total: 323.347 ms)
+[2025.02.05-23.47.32:302][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.05-23.47.32:324][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.05-23.47.32:344][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.05-23.47.32:375][656]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.05-23.47.32:375][656]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.05-23.47.32:375][656]LogContentValidation: Enabled validators:
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.05-23.47.32:375][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.05-23.47.32:375][656]AssetCheck: /Game/Models/SM_Bullet Validating asset
+[2025.02.05-23.48.03:905][849]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.05-23.48.03:906][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.05-23.48.03:959][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.05-23.48.15:437][621]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.02.05-23.48.15:443][621]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.02.05-23.48.15:450][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.02.05-23.48.36:373][809]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Bullet
+[2025.02.05-23.48.36:378][809]LogContentBrowser: End creating deferred item NewMaterial
+[2025.02.05-23.48.51:461][743]LogContentBrowser: Attempting asset rename: Mat_Drone -> M_Drone
+[2025.02.05-23.48.51:595][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.05-23.48.51:595][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/M_Drone] ([1] browsable assets)...
+[2025.02.05-23.48.51:595][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/M_Drone]
+[2025.02.05-23.48.51:595][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/M_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Drone.uasset" SILENT=true
+[2025.02.05-23.48.51:599][743]LogSavePackage: Moving output files for package: /Game/Models/M_Drone
+[2025.02.05-23.48.51:599][743]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/M_DroneE13626F140FA20B7662E22AA36514644.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Drone.uasset'
+[2025.02.05-23.48.51:604][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.117 ms (total: 331.464 ms)
+[2025.02.05-23.48.51:631][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.05-23.48.51:651][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.05-23.48.51:665][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.48.51:707][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.05-23.48.51:707][743]LogContentValidation: Enabled validators:
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.05-23.48.51:707][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.05-23.48.51:707][743]AssetCheck: /Game/Models/M_Drone Validating asset
+[2025.02.05-23.49.16:391][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.49.16:400][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto5
+[2025.02.05-23.49.16:401][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel_Auto59594E1A24D5D0C394074D3BDF4B71F78.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2025.02.05-23.49.16:403][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.030
+[2025.02.05-23.49.16:403][915]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.02.05-23.49.16:403][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540] ([1] browsable assets)...
+[2025.02.05-23.49.16:403][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540]
+[2025.02.05-23.49.16:405][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540_Auto5
+[2025.02.05-23.49.16:405][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_A8BA2540_Auto5B8A83A0440A731FA64A9D4B40921A603.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540_Auto5.uasset'
+[2025.02.05-23.49.16:406][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE] ([1] browsable assets)...
+[2025.02.05-23.49.16:406][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE]
+[2025.02.05-23.49.16:411][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE_Auto5
+[2025.02.05-23.49.16:411][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_DD7433CE_Auto563032DA245409057DE803BA80CA43D62.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE_Auto5.uasset'
+[2025.02.05-23.49.16:412][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75] ([1] browsable assets)...
+[2025.02.05-23.49.16:412][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75]
+[2025.02.05-23.49.16:416][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75_Auto5
+[2025.02.05-23.49.16:416][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_F66C4C75_Auto59338863249424C03BC201D9CD6869C5F.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75_Auto5.uasset'
+[2025.02.05-23.49.16:417][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F] ([1] browsable assets)...
+[2025.02.05-23.49.16:417][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F]
+[2025.02.05-23.49.16:421][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F_Auto5
+[2025.02.05-23.49.16:421][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_2DB6CC7F_Auto5A3CD9220413F6372B0C75697CD227190.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F_Auto5.uasset'
+[2025.02.05-23.49.16:422][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B] ([1] browsable assets)...
+[2025.02.05-23.49.16:422][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B]
+[2025.02.05-23.49.16:424][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B_Auto5
+[2025.02.05-23.49.16:424][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_B939D59B_Auto5D203731649922A524CC888AAC619A720.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B_Auto5.uasset'
+[2025.02.05-23.49.16:425][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A] ([1] browsable assets)...
+[2025.02.05-23.49.16:425][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A]
+[2025.02.05-23.49.16:430][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A_Auto5
+[2025.02.05-23.49.16:430][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Boolean_39C2EC9A_Auto5C14B759140AF2146C9C56D964E7CA14D.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A_Auto5.uasset'
+[2025.02.05-23.49.16:431][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.02.05-23.49.16:431][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.02.05-23.49.16:439][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Drone_Auto5
+[2025.02.05-23.49.16:439][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_Drone_Auto556A446AC4ADCA29EAAD916A3261B7C62.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/SM_Drone_Auto5.uasset'
+[2025.02.05-23.49.16:442][915]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Drone] ([2] browsable assets)...
+[2025.02.05-23.49.16:556][915]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Drone.BP_Drone]
+[2025.02.05-23.49.16:556][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Drone]
+[2025.02.05-23.49.16:563][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Drone_Auto5
+[2025.02.05-23.49.16:564][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Drone_Auto585535C154FECEF2F2D18B0A88C4E8529.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Blueprints/BP_Drone_Auto5.uasset'
+[2025.02.05-23.49.16:565][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B] ([1] browsable assets)...
+[2025.02.05-23.49.16:593][915]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B.Cylinder_F625055B]
+[2025.02.05-23.49.16:593][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B]
+[2025.02.05-23.49.16:596][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B_Auto5
+[2025.02.05-23.49.16:597][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_F625055B_Auto554A1FFF54F11E636717AD48D99E716DF.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B_Auto5.uasset'
+[2025.02.05-23.49.16:598][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/M_Bullet] ([1] browsable assets)...
+[2025.02.05-23.49.16:621][915]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/M_Bullet.M_Bullet]
+[2025.02.05-23.49.16:621][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/M_Bullet]
+[2025.02.05-23.49.16:623][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/M_Bullet_Auto5
+[2025.02.05-23.49.16:623][915]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/M_Bullet_Auto57E578BA34BD0BFD2A9749BAE080352A4.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Autosaves/Game/Models/M_Bullet_Auto5.uasset'
+[2025.02.05-23.49.16:624][915]LogFileHelpers: Auto-saving content packages took 0.220
+[2025.02.05-23.49.35:711][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.05-23.49.35:716][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.05-23.49.35:806][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.05-23.49.35:814][ 95]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2025.02.05-23.49.35:814][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/MainLevel6D4F8A604A1780E61AE33ABD88615673.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/MainLevel.umap'
+[2025.02.05-23.49.35:834][ 95]LogFileHelpers: Saving map 'MainLevel' took 0.077
+[2025.02.05-23.49.35:835][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540] ([1] browsable assets)...
+[2025.02.05-23.49.35:835][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540]
+[2025.02.05-23.49.35:836][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540
+[2025.02.05-23.49.35:836][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_A8BA25400865F5514917FCCB96FB78B12F4F5850.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540.uasset'
+[2025.02.05-23.49.35:840][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE] ([1] browsable assets)...
+[2025.02.05-23.49.35:840][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE]
+[2025.02.05-23.49.35:845][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE
+[2025.02.05-23.49.35:845][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_DD7433CE7DAFDB114DF9D742C579AC91DDB76288.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Sphere_DD7433CE.uasset'
+[2025.02.05-23.49.35:846][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75] ([1] browsable assets)...
+[2025.02.05-23.49.35:846][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75]
+[2025.02.05-23.49.35:853][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75
+[2025.02.05-23.49.35:853][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_F66C4C75169F1B924AB38998959397AD801EB255.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Sphere_F66C4C75.uasset'
+[2025.02.05-23.49.35:855][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F] ([1] browsable assets)...
+[2025.02.05-23.49.35:855][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F]
+[2025.02.05-23.49.35:863][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F
+[2025.02.05-23.49.35:863][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_2DB6CC7F047BCA7148E50E657D36B7B16F9C0B45.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F.uasset'
+[2025.02.05-23.49.35:865][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B] ([1] browsable assets)...
+[2025.02.05-23.49.35:865][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B]
+[2025.02.05-23.49.35:868][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B
+[2025.02.05-23.49.35:868][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Sphere_B939D59B3254D09D4DEC59C176C70A97BD603D1A.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Sphere_B939D59B.uasset'
+[2025.02.05-23.49.35:870][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A] ([1] browsable assets)...
+[2025.02.05-23.49.35:870][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A]
+[2025.02.05-23.49.35:874][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A
+[2025.02.05-23.49.35:874][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Boolean_39C2EC9A8F12462F4FFBFA3890F23CB387E40976.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A.uasset'
+[2025.02.05-23.49.35:875][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/SM_Drone] ([1] browsable assets)...
+[2025.02.05-23.49.35:875][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Drone]
+[2025.02.05-23.49.35:875][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset" SILENT=true
+[2025.02.05-23.49.35:880][ 95]LogSavePackage: Moving output files for package: /Game/Models/SM_Drone
+[2025.02.05-23.49.35:880][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/SM_DroneC756E60947E9014405F5FEA2EA977A29.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/SM_Drone.uasset'
+[2025.02.05-23.49.35:882][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Drone] ([2] browsable assets)...
+[2025.02.05-23.49.35:882][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Drone]
+[2025.02.05-23.49.35:882][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Blueprints/BP_Drone.uasset" SILENT=true
+[2025.02.05-23.49.35:888][ 95]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Drone
+[2025.02.05-23.49.35:888][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/BP_Drone09681748404FCD097E009F90EE038816.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Blueprints/BP_Drone.uasset'
+[2025.02.05-23.49.35:898][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B] ([1] browsable assets)...
+[2025.02.05-23.49.35:898][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B]
+[2025.02.05-23.49.35:900][ 95]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B
+[2025.02.05-23.49.35:900][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/Cylinder_F625055B59269704429EF63E1EAE86A771F348B5.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Levels/_GENERATED/Yasmine/Cylinder_F625055B.uasset'
+[2025.02.05-23.49.35:901][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/M_Bullet] ([1] browsable assets)...
+[2025.02.05-23.49.35:901][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/M_Bullet]
+[2025.02.05-23.49.35:901][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/M_Bullet" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Bullet.uasset" SILENT=true
+[2025.02.05-23.49.35:902][ 95]LogSavePackage: Moving output files for package: /Game/Models/M_Bullet
+[2025.02.05-23.49.35:902][ 95]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/M_BulletAB049C5C4BB21F6A0DA51EAD071AEC68.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Bullet.uasset'
+[2025.02.05-23.49.35:918][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.472 ms (total: 531.937 ms)
+[2025.02.05-23.49.35:991][ 95]LogContentValidation: Display: Starting to validate 11 assets
+[2025.02.05-23.49.35:991][ 95]LogContentValidation: Enabled validators:
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.05-23.49.35:992][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/MainLevel Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Cylinder_A8BA2540 Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Sphere_DD7433CE Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Sphere_F66C4C75 Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Sphere_2DB6CC7F Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Sphere_B939D59B Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Boolean_39C2EC9A Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Models/SM_Drone Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Blueprints/BP_Drone Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Levels/_GENERATED/Yasmine/Cylinder_F625055B Validating asset
+[2025.02.05-23.49.35:993][ 95]AssetCheck: /Game/Models/M_Bullet Validating asset
+[2025.02.05-23.49.44:738][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10617.605469
+[2025.02.05-23.49.45:738][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.05-23.49.45:739][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10618.271484, Update Interval: 349.923401
+[2025.02.05-23.54.40:063][343]LogDerivedDataCache: C:/Users/batni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
+[2025.02.05-23.56.09:432][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11002.174805
+[2025.02.05-23.56.10:431][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.05-23.56.10:431][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11002.840820, Update Interval: 346.949677
+[2025.02.05-23.58.01:617][948]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2025.02.05-23.58.01:789][948]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.02.05-23.58.01:790][948]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=40128
+[2025.02.05-23.58.02:784][951]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.02.05-23.58.02:795][951]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cbd3ecdd-9ab4-420b-989c-36481ee4605f}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=900.19
+[2025.02.05-23.58.02:796][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.02.05-23.58.02:798][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.06-00.02.29:127][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11381.657227
+[2025.02.06-00.02.30:127][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.02.30:127][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11382.324219, Update Interval: 307.707153
+[2025.02.06-00.08.29:485][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11741.863281
+[2025.02.06-00.08.30:485][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.08.30:485][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11742.530273, Update Interval: 328.946198
+[2025.02.06-00.14.32:498][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12104.669922
+[2025.02.06-00.14.33:497][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.14.33:497][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12105.335938, Update Interval: 351.084320
+[2025.02.06-00.21.00:200][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12492.164062
+[2025.02.06-00.21.01:200][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.21.01:200][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12492.830078, Update Interval: 359.791260
+[2025.02.06-00.27.39:213][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12890.945312
+[2025.02.06-00.27.40:214][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.27.40:214][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12891.612305, Update Interval: 318.186584
+[2025.02.06-00.33.40:558][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13252.111328
+[2025.02.06-00.33.41:558][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.33.41:558][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13252.777344, Update Interval: 318.424622
+[2025.02.06-00.39.36:238][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13607.647461
+[2025.02.06-00.39.37:238][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.39.37:239][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13608.313477, Update Interval: 341.344635
+[2025.02.06-00.45.57:592][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13988.823242
+[2025.02.06-00.45.58:593][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.45.58:593][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13989.490234, Update Interval: 332.544312
+[2025.02.06-00.49.34:310][284]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: bf4...11b
+[2025.02.06-00.49.34:310][284]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.92 RefreshExpires: 1.554e+07
+[2025.02.06-00.49.35:312][287]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: bf4...11b Access[Expires: 2025.02.06-02.49.34 Remaining: 7200.71] Refresh[Expires: 2025-08-04T20:52:19.168Z Remaining: 15537765.17] State: Valid
+[2025.02.06-00.52.30:674][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14381.748047
+[2025.02.06-00.52.31:676][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.52.31:676][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14382.416992, Update Interval: 337.065338
+[2025.02.06-00.54.40:117][247]LogDerivedDataCache: C:/Users/batni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.06-00.58.59:025][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14769.951172
+[2025.02.06-00.59.00:025][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-00.59.00:025][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14770.617188, Update Interval: 329.839783
+[2025.02.06-01.05.05:037][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15135.799805
+[2025.02.06-01.05.06:038][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.05.06:038][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15136.465820, Update Interval: 303.279510
+[2025.02.06-01.10.51:053][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15481.634766
+[2025.02.06-01.10.52:053][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.10.52:053][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15482.300781, Update Interval: 333.767517
+[2025.02.06-01.17.16:063][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15866.406250
+[2025.02.06-01.17.17:063][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.17.17:064][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15867.072266, Update Interval: 304.098022
+[2025.02.06-01.23.09:078][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16219.202148
+[2025.02.06-01.23.10:078][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.23.10:078][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16219.869141, Update Interval: 332.782379
+[2025.02.06-01.29.23:755][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16594.074219
+[2025.02.06-01.29.24:754][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.29.24:755][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16594.742188, Update Interval: 301.246979
+[2025.02.06-01.35.16:438][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16947.271484
+[2025.02.06-01.35.17:437][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.35.17:437][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16947.939453, Update Interval: 311.102020
+[2025.02.06-01.41.23:785][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17315.134766
+[2025.02.06-01.41.24:785][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.41.24:785][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17315.800781, Update Interval: 350.558777
+[2025.02.06-01.47.59:799][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17711.722656
+[2025.02.06-01.48.00:800][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.06-01.48.00:800][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17712.390625, Update Interval: 332.053589
+[2025.02.06-01.50.07:081][408]LogUObjectHash: Compacting FUObjectHashTables data took  37.15ms
+[2025.02.06-01.50.16:938][639]LogSlate: Window 'Message' being destroyed
+[2025.02.06-01.50.16:998][639]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Models/M_Drone.M_Drone
+(Selecting 'No' will cause all changes to be lost!)
+[2025.02.06-01.50.20:172][833]LogMaterialEditor: Applying material M_Drone
+[2025.02.06-01.50.22:399][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.06-01.50.22:646][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.06-01.50.27:697][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.06-01.50.27:728][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.06-01.50.27:794][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/M_Drone] ([1] browsable assets)...
+[2025.02.06-01.50.27:842][315]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/M_Drone.M_Drone]
+[2025.02.06-01.50.27:842][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/M_Drone]
+[2025.02.06-01.50.27:842][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/M_Drone" FILE="../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Drone.uasset" SILENT=true
+[2025.02.06-01.50.27:854][315]LogSavePackage: Moving output files for package: /Game/Models/M_Drone
+[2025.02.06-01.50.27:855][315]LogSavePackage: Moving '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Saved/M_DroneE5C5E0F74D065980E48AE8A1326E0A98.tmp' to '../../../../../../Users/batni/Documents/CCNY/UnrealGIT_Test/UnrealTests/FirstProjectCCNY/Content/Models/M_Drone.uasset'
+[2025.02.06-01.50.27:870][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.431 ms (total: 673.368 ms)
+[2025.02.06-01.50.27:938][315]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.06-01.50.27:939][315]LogContentValidation: Enabled validators:
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.06-01.50.27:939][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.06-01.50.27:940][315]AssetCheck: /Game/Models/M_Drone Validating asset
+[2025.02.06-01.50.29:174][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.06-01.50.30:638][432]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.30:638][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.32:562][432]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.32:562][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.32:743][432]LogSlate: Window 'FirstProjectCCNY - Unreal Editor' being destroyed
+[2025.02.06-01.50.34:238][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.02.06-01.50.34:264][432]Cmd: QUIT_EDITOR
+[2025.02.06-01.50.34:264][432]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.06-01.50.34:293][433]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.06-01.50.34:297][433]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.06-01.50.34:298][433]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.06-01.50.34:309][433]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.34:325][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.34:442][433]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.02.06-01.50.34:478][433]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.06-01.50.35:086][433]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.35:086][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.35:089][433]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.35:089][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.35:091][433]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.35:091][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.35:105][433]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.35:105][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.35:118][433]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.06-01.50.35:118][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.06-01.50.35:178][433]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.06-01.50.35:217][433]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.06-01.50.35:217][433]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.06-01.50.35:217][433]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.06-01.50.36:061][433]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.06-01.50.36:062][433]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.06-01.50.36:062][433]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2025.02.06-01.50.36:066][433]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.06-01.50.36:083][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.06-01.50.36:088][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.06-01.50.37:174][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.06-01.50.37:176][433]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.06-01.50.37:196][433]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.06-01.50.37:219][433]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.06-01.50.37:221][433]LogExit: Preparing to exit.
+[2025.02.06-01.50.37:436][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.02.06-01.50.37:441][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:443][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:472][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:476][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:476][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:476][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:477][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:478][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:481][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:482][433]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.37:482][433]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.06-01.50.38:485][433]LogEditorDataStorage: Deinitializing
+[2025.02.06-01.50.39:668][433]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.06-01.50.40:204][433]LogExit: Editor shut down
+[2025.02.06-01.50.40:248][433]LogExit: Transaction tracking system shut down
+[2025.02.06-01.50.43:972][433]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 29.
+[2025.02.06-01.50.44:420][433]LogExit: Object subsystem successfully closed.
+[2025.02.06-01.50.44:557][433]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.06-01.50.46:866][433]LogMemoryProfiler: Shutdown
+[2025.02.06-01.50.46:868][433]LogNetworkingProfiler: Shutdown
+[2025.02.06-01.50.46:868][433]LoadingProfiler: Shutdown
+[2025.02.06-01.50.46:869][433]LogTimingProfiler: Shutdown
+[2025.02.06-01.50.50:073][433]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.06-01.50.50:200][433]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.06-01.50.50:200][433]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B38E9C68A-4582-EBF2-03FC-678D097F962F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=c47e14fb4a7b3e35940a68a393077c39%7Cbf44d55a08e14ce0a6ca8c5b849f811b%7C65f8331a-c76c-4052-9647-220ed7af95c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.06-01.50.50:892][433]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.06-01.50.50:893][433]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.06-01.50.50:896][433]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.06-01.50.50:911][433]RenderDocPlugin: plugin has been unloaded.
+[2025.02.06-01.50.51:050][433]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.06-01.50.51:050][433]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.06-01.50.51:056][433]LogPakFile: Destroying PakPlatformFile
+[2025.02.06-01.50.53:294][433]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.06-01.50.53:401][433]LogExit: Exiting.
+[2025.02.06-01.50.53:523][433]Log file closed, 02/05/25 20:50:53
