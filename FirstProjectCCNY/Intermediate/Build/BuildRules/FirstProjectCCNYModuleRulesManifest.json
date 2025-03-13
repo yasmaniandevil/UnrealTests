@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\batni\\Documents\\CCNY\\UnrealGIT_Test\\UnrealTests\\FirstProjectCCNY\\Source\\FirstProjectCCNY\\FirstProjectCCNY.Build.cs",
-		"C:\\Users\\batni\\Documents\\CCNY\\UnrealGIT_Test\\UnrealTests\\FirstProjectCCNY\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
-		"C:\\Users\\batni\\Documents\\CCNY\\UnrealGIT_Test\\UnrealTests\\FirstProjectCCNY\\Source\\FirstProjectCCNY.Target.cs",
-		"C:\\Users\\batni\\Documents\\CCNY\\UnrealGIT_Test\\UnrealTests\\FirstProjectCCNY\\Source\\FirstProjectCCNYEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.1"
-}
