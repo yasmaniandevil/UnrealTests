@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstProjectCCNY",
+			"Path": "..\\Source\\FirstProjectCCNY.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstProjectCCNYEditor",
+			"Path": "..\\Source\\FirstProjectCCNYEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
